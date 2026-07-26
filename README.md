@@ -8,10 +8,10 @@ screenshots :-
 <table width="4000" height="2000" border="3">
 <tr>
     <th>
-      <img width="1672" height="932" alt="image" src="https://github.com/user-attachments/assets/274f52af-          76b4-4ba6-8ef3-6805130b36c9" /> 
+        <img width="1627" height="913" alt="image" src="https://github.com/user-attachments/assets/884d845e-4ae6-4975-a22c-af13e2f2f19f" />
     </th>
     <th>
-          <img width="1627" height="913"alt="image"src="https://github.com/userattachments/assets/8a0e88ed268f-42ff-9032-c2104e4b8876" />
+        <img width="1672" height="932" alt="image" src="https://github.com/user-attachments/assets/3a9ae4d5-c9d6-4cae-b1f0-a07d01ebc1de" />
     </th>
 </tr>
 </table>
