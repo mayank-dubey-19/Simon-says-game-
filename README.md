@@ -3,7 +3,7 @@
 
 clich on link to previw my game : https://mayank-dubey-19.github.io/Simon-says-game-/
 
-screenshots :-
+📸 screenshots :-
 
 <table width="4000" height="2000" border="3">
 <tr>
